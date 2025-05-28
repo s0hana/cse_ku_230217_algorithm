@@ -1,4 +1,6 @@
-# Algorithms Laboratory: Class Routine Scheduler
+# Algorithms Laboratory Project: Class Routine Scheduler
+
+This project is part of the CSE 2203: Algorithms Laboratory, a core course in the second year, second term of the CSE curriculum at Khulna University. The primary objective of this course is to translate algorithmic theory into practice through hands-on implementation. As a requirement of the course, this project focuses on solving a real-world constraint satisfaction problem — class routine scheduling — using algorithmic strategies such as backtracking, greedy methods, and recursive conflict resolution. It not only reinforces the theoretical concepts learned in CSE 2201 (Algorithms) but also contributes to key course learning outcomes by applying them in the design of a fully functional software tool.
 
 **Course Code:** 0714 02 CSE 2203  
 **Course Title:** Algorithms Laboratory  
@@ -44,7 +46,7 @@ Output includes:
   - Coordinators for each batch.
 - Generates an input text file and calls the scheduler.
 
-### 2. **Scheduler Engine (main_code.py)**
+### 2. **Scheduler Engine (scheduler.py)**
 
 - Parses teacher availability, courses, and coordinator info.
 - Assigns even and odd credit courses while resolving conflicts.
@@ -58,7 +60,7 @@ Output includes:
 ## 📂 Files
 
 - `main.py`: GUI logic.
-- `main_code.py`: Core scheduling algorithm.
+- `scheduler.py`: Core scheduling algorithm.
 - `class_routine.html`: Generated class routine in HTML format.
 - `class_routine.pdf`: Printable PDF version of the routine.
 
@@ -76,10 +78,23 @@ Output includes:
 
 ---
 
-## 📸 Photos
+## 📸 GUI Interfaces
 
 *![alt text](image.png)*
-**
+*![alt text](image-1.png)*
+*![alt text](image-2.png)*
+*![alt text](image-3.png)*
+*![alt text](image-4.png)*
+*![alt text](image-5.png)*
+*![alt text](image-6.png)*
+*![alt text](image-7.png)*
+*![alt text](image-8.png)*
+*![alt text](image-9.png)*
+*![alt text](image-10.png)*
+*![alt text](image-11.png)*
+*![alt text](image-12.png)*
+*![alt text](image-13.png)*
+*![alt text](image-14.png)*
 ---
 
 ## 🚀 Run the Application
