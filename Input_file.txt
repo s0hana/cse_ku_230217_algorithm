@@ -1,0 +1,67 @@
+teacher_rank
+Prof. Dr. Md. Anisur Rahman 1
+Prof. Dr. Kamrul Hasan Talukder 1
+Prof. Dr. Rameswar Debnath 1
+Prof. Dr. S.M. Rafizul Haque 1
+Prof. Dr. G M Atiqur Rahaman 1
+Prof. Dr. Abu Shamim Md. Arif 1
+Prof. Dr. Anupam Kumar Bairagi 1
+Prof. Dr. Kazi Masudul Alam 1
+Prof. Dr. Sheikh Alamgir Hossain 1
+Prof. Dr. Rameswar Debnath 1
+Assoc. Prof. Dr. Manishankar Mondal 2
+Asst. Prof. Dr. Amit Kumar Mondal 3 
+Asst. Prof. Atanu Shome 3
+Asst. Prof. Aminul Islam 3
+Asst. Prof. Mrs. Farhana Tazmim Pinki 3
+Lecturer Mr. Sajib Chatterjee 4
+Lecturer Mr. Md. Farhan Sadique 4
+Prof. Dr. Lasker Ershad Ali 5
+Prof. Dr. Sarder Firoz Ahmmed 5
+Prof. Dr. Ismat Kadir 5
+Assoc. Prof. Dr. Rafia Nishat Toma 6
+Assoc. Prof. Dr. Shakila Naznin 6
+Assoc. Prof. Dr. Md. Khairul Amin 6
+Asst. Prof. Fariha Azad 7
+Asst. Prof. Subarna Kundu 7
+Lecturer Lubaba Khan 8
+Lecturer Sabina Aktar 8
+
+teacher_availability
+Prof. Dr. Md. Anisur Rahman: Monday 12, Tuesday 12, Wednesday 12, Wednesday 14, Wednesday 15, Wednesday 16
+Prof. Dr. Kamrul Hasan Talukder: Sunday 9, Sunday 11, Sunday 12, Monday 12, Tuesday 15, Wednesday 12, Thursday 12, Thursday 14, Thursday 15, Thursday 16
+Prof. Dr. Anupam Kumar Bairagi: Tuesday 14, Tuesday 15, Tuesday 16
+Prof. Dr. Kazi Masudul Alam: Monday 10, Tuesday 10, Wednesday 10, Thursday 10, Thursday 11, Thursday 12
+Prof. Dr. G M Atiqur Rahaman: Sunday 10, Sunday 11, Sunday 12, Monday 10, Monday 11, Tuesday 9, Tuesday 10, Tuesday 14, Tuesday 15, Tuesday 16, Wednesday 9, Wednesday 10, Thursday 10
+Prof. Dr. S.M. Rafizul Haque: Thursday 10, Thursday 11, Thursday 12
+Prof. Dr. Rameswar Debnath: Sunday 11, Monday 11, Tuesday 11, Wednesday 14, Wednesday 15, Wednesday 16
+Prof. Dr. Abu Shamim Md. Arif: Sunday 10, Sunday 11, Sunday 12, Monday 9, Tuesday 9, Wednesday 9
+Assoc. Prof. Dr. Manishankar Mondal: Sunday 14, Thursday 14, Thursday 15, Thursday 16, Tuesday 12, Wednesday 12
+Asst. Prof. Aminul Islam: Sunday 10, Monday 10, Wednesday 12, Sunday 14, Sunday 15, Sunday 16
+Prof. Dr. Sheikh Alamgir Hossain: Monday 11, Tuesday 11, Wednesday 11, Monday 14, Monday 15, Monday 16
+Asst. Prof. Atanu Shome: Sunday 12, Sunday 14, Sunday 15, Sunday 16, Monday 12, Wednesday 9, Wednesday 12, Wednesday 14, Wednesday 15, Wednesday 16, Thursday 12, Thursday 15
+Asst. Prof. Dr. Amit Kumar Mondal: Tuesday 10, Tuesday 11, Monday 14, Monday 15
+Lecturer Mr. Sajib Chatterjee: Monday 12, Monday 14, Monday 15, Monday 16, Wednesday 10, Wednesday 11
+Lecturer Mr. Md. Farhan Sadique: Sunday 10, Sunday 11, Sunday 12, Monday 10, Monday 11, Tuesday 9, Wednesday 10, Thursday 10, Thursday 11
+Prof. Dr. Lasker Ershad Ali: Sunday 10, Sunday 11, Monday 10
+Prof. Dr. Sarder Firoz Ahmmed: Monday 11, Tuesday 9, Tuesday 10, Tuesday 11
+Prof. Dr. Ismat Kadir: Sunday 9, Monday 9, Tuesday 9, Sunday 14, Sunday 15, Sunday 16
+Assoc. Prof. Dr. Rafia Nishat Toma: Sunday 11, Thursday 11
+Assoc. Prof. Dr. Shakila Naznin: Tuesday 14, Tuesday 15, Tuesday 16, Monday 11, Tuesday 10, Thursday 10
+Assoc. Prof. Dr. Md. Khairul Amin: Tuesday 11, Wednesday 10, Thursday 12
+Asst. Prof. Fariha Azad: Sunday 10, Wednesday 11, Thursday 14, Tuesday 12
+Asst. Prof. Subarna Kundu: Thursday 9, Tuesday 14, Tuesday 15
+Lecturer Lubaba Khan: Sunday 12, Monday 12
+Lecturer Sabina Aktar: Wednesday 11, Thursday 11
+
+courses
+1st Year: CSE 1200 3 Assoc. Prof. Dr. Manishankar Mondal, CSE 1201 3 Prof. Dr. Md. Anisur Rahman, CSE 1202 3 Prof. Dr. Md. Anisur Rahman, ECE 1251 3 Assoc. Prof. Dr. Shakila Naznin, ECE 1252 3 Assoc. Prof. Dr. Shakila Naznin, ME 1251 3 Prof. Dr. Ismat Kadir, ME 1252 3 Prof. Dr. Ismat Kadir, Math 1251 3 Prof. Dr. Lasker Ershad Ali, Chem 1251 3 Assoc. Prof. Dr. Md. Khairul Amin, Econ 1251 2 Lecturer Sabina Aktar
+2nd Year: CSE 2201 3 Lecturer Mr. Sajib Chatterjee, CSE 2202 3 Lecturer Mr. Sajib Chatterjee, CSE 2203 3 Asst. Prof. Atanu Shome, CSE 2204 3 Asst. Prof. Atanu Shome, CSE 2205 3 Asst. Prof. Aminul Islam, CSE 2206 3 Asst. Prof. Aminul Islam, ECE 2251 2 Assoc. Prof. Dr. Rafia Nishat Toma, Math 2251 3 Prof. Dr. Sarder Firoz Ahmmed
+3rd Year: CSE 3101 3 Prof. Dr. Sheikh Alamgir Hossain, CSE 3102 3 Prof. Dr. Sheikh Alamgir Hossain, CSE 3103 3 Prof. Dr. Kazi Masudul Alam, CSE 3104 3 Prof. Dr. Kazi Masudul Alam, CSE 3105 3 Asst. Prof. Atanu Shome, CSE 3106 3 Asst. Prof. Atanu Shome, CSE 3107 3 Prof. Dr. Abu Shamim Md. Arif, CSE 3108 3 Prof. Dr. Abu Shamim Md. Arif, BA 3151 2 Asst. Prof. Fariha Azad, Stat 3151 3 Asst. Prof. Subarna Kundu
+4th Year: CSE 4100 3 Prof. Dr. S.M. Rafizul Haque, CSE 4103 3 Prof. Dr. Rameswar Debnath, CSE 4104 3 Prof. Dr. Rameswar Debnath, CSE 4105 3 Prof. Dr. Anupam Kumar Bairagi, CSE 4121 3 Assoc. Prof. Dr. Manishankar Mondal, CSE 4123 3 Asst. Prof. Dr. Amit Kumar Mondal, BA 4151 2 Asst. Prof. Fariha Azad, SOC 4153 2 Lecturer Lubaba Khan
+
+coordinator info
+1st Year: Lecturer Mr. Md. Farhan Sadique  
+2nd Year: Lecturer Mr. Sajib Chatterjee 
+3rd Year: Asst. Prof. Atanu Shome  
+4th Year: Asst. Prof. Aminul Islam  
